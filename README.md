@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I’m Elbethel Ambachew 👋
 
-<!--
-**nunu-e/nunu-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Computer Science student at Addis Ababa University  
+💻 Aspiring Full-Stack Developer with growing interest in Data Analysis and Artificial Intelligence  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m currently focused on building strong practical skills in full-stack web development while exploring data science and AI concepts through hands-on projects and coursework. I enjoy turning ideas into real applications and continuously improving through building.
+
+---
+
+## 🌱 Currently Learning
+- React  
+- Node.js  
+- Express.js
+- Mongodb
+- MySQL  
+- Git & GitHub  
+- Python (NumPy, data analysis basics, AI/ML foundations)
+
+---
+
+## 🔭 Currently Working On
+- Full-stack web development projects  
+- Academic projects (systems, databases, and AI-related assignments)  
+
+---
+
+## 🛠️ Technologies & Tools
+- HTML, CSS, JavaScript  
+- React  
+- PHP  
+- Node.js & Express.js  
+- MySQL & Mongodb
+- Python (NumPy, basic data analysis)  
+- Git & GitHub  
+
+---
+
+## 🎯 Goals 
+- Become a confident full-stack developer  
+- Strengthen problem-solving and system design skills  
+- Build real-world, production-ready projects  
+
+---
+  
+
+## 📫 Contact Me
+- Email: your-email@example.com  
+- LinkedIn: your-linkedin-profile  
