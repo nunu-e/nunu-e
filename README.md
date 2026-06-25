@@ -47,5 +47,5 @@ I’m currently focused on building strong practical skills in full-stack web de
   
 
 ## 📫 Contact Me
-- Email: your-email@example.com  
-- LinkedIn: your-linkedin-profile  
+- Email: elbethelambachew2@gmail.com  
+- LinkedIn: www.linkedin.com/in/elbethel-ambachew-amare  
