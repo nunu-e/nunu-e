@@ -1,7 +1,7 @@
 # Hi there, I’m Elbethel Ambachew 👋
 
-🎓 Third-year Computer Science student at Addis Ababa University  
-💻 Aspiring Full-Stack Developer with growing interest in Data Analysis and Artificial Intelligence  
+🎓 Fourth-year Computer Science student at Addis Ababa University  
+💻 Aspiring Software engineer with growing interest in Data Analysis and Artificial Intelligence  
 
 ---
 
@@ -22,7 +22,8 @@ I’m currently focused on building strong practical skills in full-stack web de
 ---
 
 ## 🔭 Currently Working On
-- Full-stack web development projects  
+- Full-stack web development projects
+- Mobile App projects
 - Academic projects (systems, databases, and AI-related assignments)  
 
 ---
@@ -34,12 +35,14 @@ I’m currently focused on building strong practical skills in full-stack web de
 - Node.js & Express.js  
 - MySQL & Mongodb
 - Python (NumPy, basic data analysis)  
-- Git & GitHub  
+- Git & GitHub
+- flutter
+- ASP .net 
 
 ---
 
 ## 🎯 Goals 
-- Become a confident full-stack developer  
+- Become a Software engineer  
 - Strengthen problem-solving and system design skills  
 - Build real-world, production-ready projects  
 
