@@ -62,4 +62,3 @@ I'm currently focused on becoming a stronger software engineer through:
 
 * **Portfolio:** https://elbethel-portfolio.netlify.app/
 * **LinkedIn:** https://www.linkedin.com/in/elbethel-ambachew-amare/
-* **GitHub:** https://github.com/nunu-e
